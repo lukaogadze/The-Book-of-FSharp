@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="shared.fsx" />
+    <None Include="RecursiveFunctions.fsx" />
     <None Include="FunctionComposition.fsx" />
     <None Include="Pipelining.fsx" />
     <None Include="PartialApplication.fsx" />

@@ -24,3 +24,18 @@ type rgbColor2 =
       B: byte; }
 
 let red: rgbColor1 = {R = 255uy; G = 0uy; B = 0uy}
+
+// Copying Records
+let yellow = { red with G = 255uy }
+
+type rgbColor3 = { mutable R : byte; mutable G : byte; mutable B : byte }
+
+type GenericRecord<'a> = { A: 'a; B: 'a; C: 'a ;}
+
+// Records Withs Additional Members
+
+type rgbColor4 = { R : byte; G : byte; B : byte }
+                 member this.Print() = printfn "%d" this.R
+
+type rgbColor5 = { R : byte; G : byte; B : byte }
+                  static member Wut = "sss"

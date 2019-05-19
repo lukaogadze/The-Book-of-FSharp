@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="FunctionalTypes.fsx" />
     <None Include="Closures.fsx" />
     <None Include="LambdaExpression.fsx" />
     <None Include="MutuallyRecursiveFunctions.fsx" />

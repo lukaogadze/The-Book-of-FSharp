@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="MutuallyRecursiveFunctions.fsx" />
     <None Include="shared.fsx" />
     <None Include="RecursiveFunctions.fsx" />
     <None Include="FunctionComposition.fsx" />

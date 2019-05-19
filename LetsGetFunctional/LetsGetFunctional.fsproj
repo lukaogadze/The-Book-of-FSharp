@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="PartialApplication.fsx" />
     <None Include="Currying.fsx" />
     <Compile Include="Program.fs" />
   </ItemGroup>

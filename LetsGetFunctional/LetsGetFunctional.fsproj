@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="LazyEvaluation.fsx" />
     <None Include="DiscriminatedUnions\Shared.fsx" />
     <None Include="DiscriminatedUnions\DefiningDiscriminatedUnions.fsx" />
     <None Include="DiscriminatedUnions\AdditionalMembers.fsx" />

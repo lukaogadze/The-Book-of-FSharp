@@ -6,7 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="Sequences.fsx" />
+    <Content Include="ArnoldMovies.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Compile Include="Program.fs" />
   </ItemGroup>
+
+  <ItemGroup />
 
 </Project>

@@ -6,11 +6,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="DiscriminatedUnions\Shared.fsx" />
+    <None Include="DiscriminatedUnions\DefiningDiscriminatedUnions.fsx" />
+    <None Include="DiscriminatedUnions\AdditionalMembers.fsx" />
     <None Include="FunctionalTypes.fsx" />
     <None Include="Closures.fsx" />
     <None Include="LambdaExpression.fsx" />
     <None Include="MutuallyRecursiveFunctions.fsx" />
-    <None Include="shared.fsx" />
+    <None Include="Shared.fsx" />
     <None Include="RecursiveFunctions.fsx" />
     <None Include="FunctionComposition.fsx" />
     <None Include="Pipelining.fsx" />
@@ -18,7 +21,5 @@
     <None Include="Currying.fsx" />
     <Compile Include="Program.fs" />
   </ItemGroup>
-
-  <ItemGroup />
 
 </Project>

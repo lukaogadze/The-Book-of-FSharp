@@ -1,4 +1,4 @@
-﻿#load "shared.fsx";
+﻿#load "Shared.fsx";
 
 let averageInCelsius = List.average >> Shared.fahrenheitToCelsius
 

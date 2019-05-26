@@ -1,4 +1,4 @@
-﻿#load "shared.fsx"
+﻿#load "Shared.fsx"
 
 // Forward Pipelining
 Shared.add 2 3 |> ignore

@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <None Include="Arrays.fsx" />
+    <None Include="ConvertingBetweenCollectionTypes.fsx" />
     <None Include="Lists.fsx" />
     <None Include="Maps.fsx" />
     <None Include="Sequences.fsx" />

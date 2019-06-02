@@ -11,6 +11,7 @@
 
     <ItemGroup>
       <None Include="Expressions.fsx" />
+      <None Include="GuardClauses.fsx" />
     </ItemGroup>
 
 </Project>

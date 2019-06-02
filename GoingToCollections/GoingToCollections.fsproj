@@ -13,6 +13,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Compile Include="Program.fs" />
+    <None Include="Sets.fsx" />
   </ItemGroup>
 
   <ItemGroup />

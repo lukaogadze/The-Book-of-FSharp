@@ -6,6 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <None Include="PatternMatchingFunctions.fsx" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 

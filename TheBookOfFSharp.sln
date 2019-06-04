@@ -5,11 +5,9 @@ VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "LetsGetFunctional", "LetsGetFunctional\LetsGetFunctional.fsproj", "{2B17B324-0D7F-4ECC-99A5-29AC4AC4394E}"
 EndProject
-Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "GoingToCollections", "GoingToCollections\GoingToCollections.fsproj", "{B6755B4E-558A-42F2-92A2-81E247351173}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GoingToCollections", "GoingToCollections\GoingToCollections.fsproj", "{B6755B4E-558A-42F2-92A2-81E247351173}"
 EndProject
-Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "PatternsPatternsEverywhere", "PatternsPatternsEverywhere\PatternsPatternsEverywhere.fsproj", "{EA23AFE7-CF68-4C67-A891-4B353A7D6089}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasuringUp", "MeasuringUp\MeasuringUp.csproj", "{AF573C2C-3E36-4386-B6CD-D723F2333B6D}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PatternsPatternsEverywhere", "PatternsPatternsEverywhere\PatternsPatternsEverywhere.fsproj", "{EA23AFE7-CF68-4C67-A891-4B353A7D6089}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +27,6 @@ Global
 		{EA23AFE7-CF68-4C67-A891-4B353A7D6089}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA23AFE7-CF68-4C67-A891-4B353A7D6089}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA23AFE7-CF68-4C67-A891-4B353A7D6089}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AF573C2C-3E36-4386-B6CD-D723F2333B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF573C2C-3E36-4386-B6CD-D723F2333B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF573C2C-3E36-4386-B6CD-D723F2333B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF573C2C-3E36-4386-B6CD-D723F2333B6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
